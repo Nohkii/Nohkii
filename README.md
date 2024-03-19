@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />-->
 
 ## Hi there 👋
 
@@ -8,20 +8,15 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### 🙌 I’m learn about..
+### ⚒️Teck
+[Front]
+JavaScript, Vue.js, React.js, JQuery
 
-<!--
-**Nohkii/Nohkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Backend]
+Java, Spring Boot
 
-Here are some ideas to get you started:
+[Database]
+Oracle, MySQL
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />-->
