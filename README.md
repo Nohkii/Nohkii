@@ -11,7 +11,7 @@
   
   
 ### ⚒️Teck
-[Front] 
+[Frontend] 
 
 JavaScript, Vue.js, React.js, JQuery
 
